@@ -1,0 +1,6 @@
+GET http://localhost:3001/transactions
+
+###
+GET http://localhost:3001/statistics?month=01 
+###
+GET http://localhost:3001/bar-chart?month=02
